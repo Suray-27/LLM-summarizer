@@ -1,0 +1,9 @@
+{
+    "story_id": "INS-103",
+    "title": "Claims Fraud Detection",
+    "description": "Implement a fraud detection model to flag suspicious claims.",
+    "dependencies": [
+        "INS-101",
+        "INS-102"
+    ]
+}

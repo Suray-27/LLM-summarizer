@@ -21,7 +21,7 @@ with st.sidebar:
 
 # Main Title and Description
 st.markdown("""
-    <h1 style='text-align: center; color: #4F8BF9;'>AI Insurance Story Summarizer</h1>
+    <h1 style='text-align: center; color: #4F8BF9;'>Genius Gist-o-Matic</h1>
     <p style='text-align: center; color: #555;'>Upload your insurance story and let our AI assistant analyze and match it to relevant tables for actionable insights.</p>
     <br>
     """, unsafe_allow_html=True)

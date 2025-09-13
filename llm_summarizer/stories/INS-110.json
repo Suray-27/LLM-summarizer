@@ -1,9 +1,0 @@
-{
-    "story_id": "INS-110",
-    "title": "Regulatory Compliance Report",
-    "description": "Generate automated reports to meet regulatory compliance requirements.",
-    "dependencies": [
-        "INS-102",
-        "INS-108"
-    ]
-}

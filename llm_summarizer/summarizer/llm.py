@@ -92,10 +92,10 @@ def run_llm(latest_story, older_stories, tables):
             "max_output_tokens": 800
         }
     )
-    #print("\n--- Gemini Raw Response ---\n")
-    #print(response)
-    # try:
-    #     return response.text
-    # except Exception as e:
-    #     return f"No valid response from LLM. Error: {e}\nRaw response: {response}"
+    print("\n--- Gemini Raw Response ---\n")
+    print(response)
+    try:
+        return response.text
+    except Exception as e:
+        return f"No valid response from LLM. Error: {e}\nRaw response: {response}"
 
