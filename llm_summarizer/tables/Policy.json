@@ -1,0 +1,14 @@
+{
+  "database": "INSURANCE_DB",
+  "schema": "POLICY_SCHEMA",
+  "table_name": "POLICY",
+  "columns": [
+    {"name": "POLICY_ID", "type": "STRING", "nullable": false},
+    {"name": "CUSTOMER_ID", "type": "STRING", "nullable": false},
+    {"name": "PRODUCT_ID", "type": "STRING", "nullable": false},
+    {"name": "START_DATE", "type": "DATE", "nullable": false},
+    {"name": "END_DATE", "type": "DATE", "nullable": true},
+    {"name": "STATUS", "type": "STRING", "nullable": false}
+  ],
+  "description": "Policy master table containing policy lifecycle details"
+}

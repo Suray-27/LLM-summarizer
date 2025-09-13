@@ -1,0 +1,9 @@
+{
+    "story_id": "INS-108",
+    "title": "Policy Performance Metrics",
+    "description": "Calculate key metrics for policies like claim ratio and risk exposure.",
+    "dependencies": [
+        "INS-102",
+        "INS-103"
+    ]
+}

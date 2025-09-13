@@ -1,0 +1,8 @@
+{
+    "story_id": "INS-105",
+    "title": "Policy Renewal Automation",
+    "description": "Automate policy renewal notifications for expiring policies.",
+    "dependencies": [
+        "INS-101"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "database": "INSURANCE_DB",
+  "schema": "CLAIM_SCHEMA",
+  "table_name": "CLAIMS",
+  "columns": [
+    {"name": "CLAIM_ID", "type": "STRING", "nullable": false},
+    {"name": "POLICY_ID", "type": "STRING", "nullable": false},
+    {"name": "CLAIM_DATE", "type": "DATE", "nullable": false},
+    {"name": "CLAIM_AMOUNT", "type": "DECIMAL", "nullable": false},
+    {"name": "STATUS", "type": "STRING", "nullable": false}
+  ],
+  "description": "Claim details raised by policyholders"
+}

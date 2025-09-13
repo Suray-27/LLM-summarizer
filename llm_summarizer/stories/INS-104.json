@@ -1,0 +1,8 @@
+{
+    "story_id": "INS-104",
+    "title": "Real-Time Claims Status Dashboard",
+    "description": "Build a dashboard showing real-time claim statuses.",
+    "dependencies": [
+        "INS-103"
+    ]
+}

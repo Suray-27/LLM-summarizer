@@ -1,0 +1,12 @@
+{
+  "database": "INSURANCE_DB",
+  "schema": "PRODUCT_SCHEMA",
+  "table_name": "PRODUCTS",
+  "columns": [
+    {"name": "PRODUCT_ID", "type": "STRING", "nullable": false},
+    {"name": "PRODUCT_NAME", "type": "STRING", "nullable": false},
+    {"name": "CATEGORY", "type": "STRING", "nullable": true},
+    {"name": "COVERAGE_LIMIT", "type": "DECIMAL", "nullable": true}
+  ],
+  "description": "Insurance product catalog"
+}

@@ -1,0 +1,6 @@
+{
+    "story_id": "INS-101",
+    "title": "Customer Policy Analytics",
+    "description": "Build a pipeline to aggregate customer policy data for analytics.",
+    "dependencies": []
+}
