@@ -5,7 +5,7 @@ from llm_summarizer.summarizer.llm import get_latest_story_with_context, get_tab
 
 # Set up Streamlit page configuration
 st.set_page_config(
-    page_title="AI Insurance Assistant",
+    page_title="Genius Gist-o-Matic",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"

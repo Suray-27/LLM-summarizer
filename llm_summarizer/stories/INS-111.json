@@ -1,6 +1,0 @@
-{
-    "story_id": "INS-111",
-    "title": "Claims Fraud Detection",
-    "description": "Develop a system to identify and flag potentially fraudulent insurance claims using machine learning.",
-    "dependencies": []
-}
