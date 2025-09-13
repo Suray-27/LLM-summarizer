@@ -65,7 +65,10 @@ llm_summarizer/
 README.md
 requirements.txt
 ```
+## Contributors
 
-## Contributing
+1. Makesh Periyasamy
+2. Surendhar Basker
+3. Swetha Bharathi M
+4. Anjana Priyadharshini P
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
