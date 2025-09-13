@@ -1,4 +1,4 @@
-# Genius Gist-o-Matic
+# Synaptic-Squad
 
 A Streamlit-powered application that uses Google Gemini LLM to summarize insurance stories and match them to relevant database tables. Upload your insurance stories in JSON format and get instant AI-driven insights and table recommendations.
 
