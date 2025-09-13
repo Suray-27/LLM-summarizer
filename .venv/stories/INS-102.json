@@ -1,8 +1,0 @@
-{
-    "story_id": "INS-102",
-    "title": "Premium Calculation Enhancement",
-    "description": "Update premium calculation logic to include risk score adjustments.",
-    "dependencies": [
-        "INS-101"
-    ]
-}

@@ -1,8 +1,0 @@
-{
-    "story_id": "INS-107",
-    "title": "Fraud Signal ETL Pipeline",
-    "description": "Build ETL to ingest and process fraud signals daily.",
-    "dependencies": [
-        "INS-103"
-    ]
-}

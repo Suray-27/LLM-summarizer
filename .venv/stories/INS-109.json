@@ -1,8 +1,0 @@
-{
-    "story_id": "INS-109",
-    "title": "Customer Feedback Analysis",
-    "description": "Perform sentiment analysis on customer feedback to improve services.",
-    "dependencies": [
-        "INS-106"
-    ]
-}
